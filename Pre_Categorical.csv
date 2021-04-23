@@ -1,0 +1,236 @@
+Gender,College,Income,Carrier,Mate,Aircon,Refrig,Parking,Freshmarket,Restaurant,Laundry,Clean_service,Rental_fee,Cost_utilities,Size,Distance,Security,Can_pet,Can_cook,Name,Rental_fee_REAL,Zone
+Female,Agri_tec,Low,No,1,Not,Little,Not,Little,Little,Medium,Not,High,Medium,Little,Little,Little,Little,Little,???????? 1,Low,Nikhom
+Female,Science,Low,No,1,Not,Not,Not,Medium,Little,Not,Not,High,High,Not,Medium,Not,High,Not,??????????????????,Low,Nikhom
+Male,Engineering,Low,No,1,Not,Little,Not,Not,High,High,Not,High,High,Little,Medium,Medium,Not,Not,???????,Low,Kekingam
+Female,Businees,Low,No,0,Medium,Not,Not,Medium,High,Medium,Not,Medium,Medium,Medium,High,High,Little,Little,FBT,Low,FBT
+Male,Science,Low,Motorcycle,1,Not,Not,Not,Little,Little,Not,Not,High,High,Medium,Not,Not,Not,Not,???????????,Low,Kekingam
+Male,Science,Medium,No,0,Little,Little,Little,Little,Medium,Medium,Little,High,High,High,High,Medium,Medium,High,????????????????,Low,Kekingam
+Male,Industry_ed,Low,No,0,Medium,Medium,Little,High,High,High,Little,High,High,High,High,High,High,High,BK house,Low,Nikhom
+Female,Engineering,Low,No,0,Not,Medium,Little,Little,Medium,Medium,Medium,High,High,High,High,Medium,Not,Medium,????????????????????,Low,Kekingam
+Female,Science,Low,No,0,Medium,Little,Little,Medium,Medium,High,High,High,High,Medium,Medium,High,High,High,??????????,Low,Kekingam
+Female,Liberal_art,Low,No,0,Not,Not,Not,Medium,High,High,Not,High,High,High,High,High,Not,Little,?????????????,Low,Kekingam
+LGBT,Science,Low,No,0,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,?????????????,Low,Jinda
+Female,Liberal_art,Low,No,0,Not,Not,Not,Not,High,High,Not,High,Medium,Not,Little,Little,Not,Not,????????????,Low,Kekingam
+LGBT,Science,Medium,No,0,Little,Little,Not,Not,High,High,High,High,High,High,High,High,Not,Not,???????????,Low,Kekingam
+LGBT,Science,Medium,No,0,Not,Not,Not,Little,Medium,Not,Not,High,High,Medium,Medium,Medium,Not,Little,???????,Low,Kekingam
+Female,Engineering,Medium,No,0,Medium,Medium,Medium,High,High,High,Medium,High,High,Medium,High,High,Medium,Medium,????????????????,Low,Kekingam
+Female,Liberal_art,High,No,0,Little,Not,Not,Not,High,Medium,Not,High,High,Medium,High,Medium,Not,Not,?????????????,Low,Kekingam
+Female,Engineering,High,Motorcycle,0,Little,Medium,Little,Little,Medium,High,Not,High,High,High,Little,Medium,Not,Medium,?????????????,Low,Kekingam
+Female,Architecture,Low,No,0,Not,Not,Little,Medium,High,Medium,Little,High,High,Little,High,Little,Not,High,????????,Low,FBT
+Female,Businees,Low,Motorcycle,1,Little,Little,Little,Little,Little,Little,Little,High,High,Little,Little,Medium,Little,Little,?????????????????,Low,Nikhom
+Female,Science,Low,No,2,Not,Medium,Not,Little,Medium,Little,Little,High,High,Medium,High,High,Little,Medium,?????BBS,Low,FBT
+Female,Nano,Medium,No,0,Not,Little,Medium,High,High,High,Medium,High,High,High,High,High,Medium,High,?????????????????,Low,Nikhom
+Female,Engineering,Medium,No,0,Medium,High,High,High,High,High,Medium,High,Medium,High,High,Medium,Medium,Medium,???????,Low,Kekingam
+Female,Industry_ed,Medium,Motorcycle,0,Not,Medium,High,Not,Medium,High,Not,High,High,High,High,High,Not,Not,???????????,Low,Kekingam
+Male,Science,Low,No,0,High,Medium,Not,Not,Medium,High,Not,High,High,Medium,Medium,Medium,Not,Not,?????????????????,Low,Nikhom
+Male,Science,Low,No,0,High,Medium,Not,Not,Medium,High,Not,High,High,Medium,Medium,Medium,Not,Not,?????????????????,Low,Nikhom
+Male,Science,Low,No,0,High,Medium,Not,Not,Medium,High,Not,High,High,Medium,Medium,Medium,Not,Not,?????????????????,Low,Nikhom
+Male,Science,Low,No,0,High,Medium,Not,Not,Medium,High,Not,High,High,Medium,Medium,Medium,Not,Not,?????????????????,Low,Nikhom
+Male,Science,Low,No,0,High,Medium,Not,Little,Little,Medium,Not,High,High,High,Medium,Medium,Not,Medium,?????????????????,Low,Nikhom
+Female,Agri_tec,Low,No,1,Little,Little,Medium,High,High,Medium,Little,High,High,Medium,Medium,High,Little,Little,?????????????????,Low,Kekingam
+Female,Food_Ind,Medium,No,0,High,Little,Little,Little,High,Little,Little,High,Medium,High,High,High,Little,Little,FBT,Low,FBT
+Male,Science,Medium,No,0,High,Not,Not,High,High,Not,Not,High,High,Not,High,High,Not,Not,????????????,Low,Kekingam
+Female,Science,Medium,Motorcycle,0,Little,Medium,High,Not,High,High,Not,High,High,Medium,Medium,Medium,Medium,High,????????????,Low,Kekingam
+Male,Science,Medium,No,2,Not,Not,Not,Medium,High,Little,Medium,High,High,High,High,Medium,Not,High,?????????????,Low,Jinda
+Female,Science,Medium,No,0,Not,Not,Not,High,High,Little,Not,High,High,High,High,High,Medium,High,???????????,Low,Jinda
+Female,Agri_tec,Low,No,0,High,Not,Not,Medium,High,High,Not,High,High,High,High,Medium,High,Not,?????????????,Low,FBT
+Female,Agri_tec,Low,No,0,Little,Medium,Not,Little,Medium,Little,Not,High,High,Medium,Medium,High,Little,Medium,?????????,Low,Jinda
+Female,Science,Low,No,0,Medium,Little,Little,Medium,High,Medium,Not,Medium,Medium,Medium,Medium,High,Little,Little,???????????,Low,Kekingam
+Male,Engineering,Low,No,1,High,Little,Not,Not,Medium,High,Not,High,High,Little,High,Medium,Not,Medium,-,Low,Kekingam
+Male,Science,Low,Motorcycle,1,Medium,Medium,Medium,Medium,Medium,Medium,Medium,High,High,High,High,High,High,High,????????,Low,Kekingam
+Female,Food_Ind,Low,No,1,Medium,Not,Not,Medium,High,Not,Not,High,High,High,High,High,Not,Little,????????????,Low,FBT
+Female,IT,Low,No,0,Little,High,Not,Medium,High,High,Not,High,High,Medium,High,High,Not,High,???????????,Low,Kekingam
+Male,Science,Low,Motorcycle,1,Medium,Little,Little,Medium,Medium,Little,Not,High,Medium,Medium,Medium,Medium,Not,Medium,???????????,Low,Kekingam
+Female,Science,Low,No,0,High,High,Medium,High,High,High,High,High,Medium,High,High,High,High,High,?????????????????,Low,Jinda
+Female,Agri_tec,Medium,No,2,Medium,High,Medium,High,Medium,Medium,Little,High,High,High,High,High,Medium,High,SK,Low,FBT
+Male,Science,Medium,No,0,Medium,Medium,Not,Little,High,Medium,Not,High,Medium,Medium,High,High,Not,Little,??????,Low,Jinda
+Female,Agri_tec,Medium,No,0,High,Medium,High,Little,High,High,High,Medium,Medium,Medium,Medium,High,Medium,High,???????,Low,FBT
+Male,Science,Medium,No,0,High,Little,Little,Medium,High,High,Medium,Medium,Medium,High,High,High,Little,Medium,???????,Low,Kekingam
+Female,Liberal_art,Medium,Motorcycle,1,Medium,Little,Little,Little,Little,Little,Little,Medium,Medium,Little,Little,Little,Little,Little,??????,Low,Nikhom
+Female,Engineering,Medium,No,0,Medium,Little,Little,Medium,High,High,High,High,High,Medium,High,High,Not,Little,?????????,Low,Kekingam
+Female,Science,Medium,No,1,High,Not,Not,Not,Little,High,Little,High,High,Medium,High,High,Not,Medium,??????????????????? ,Low,FBT
+Male,Engineering,Medium,No,0,Little,Little,Not,Not,Medium,Little,Little,High,High,Medium,Little,Medium,Medium,Medium,????? ?????????,Low,Kekingam
+Female,Food_Ind,Medium,No,0,Medium,High,Not,High,High,Not,Not,High,High,High,High,High,Not,Medium,???????????,Low,Kekingam
+Female,Businees,Medium,No,0,High,Not,Little,Medium,High,High,Little,High,High,High,Medium,Medium,Not,Medium,????????????,Low,Jinda
+Female,Industry_ed,Medium,No,2,Medium,High,High,High,High,High,Little,Medium,Medium,Medium,Medium,High,Little,Medium,?????,Low,Kekingam
+Female,Science,Medium,Motorcycle,1,High,Little,Medium,Not,High,High,Medium,High,High,Medium,Medium,High,Not,Little,?????????FBT(?????????),Low,FBT
+Female,Nano,Medium,No,0,High,Medium,Not,High,High,High,High,High,High,Medium,Medium,High,High,High,?????????????????,Low,Jinda
+Female,Industry_ed,High,Motorcycle,0,Medium,Little,High,Little,Medium,Medium,Little,High,High,Little,Medium,Medium,Not,High,?????????????,Low,Jinda
+Female,Engineering,High,No,0,Medium,Medium,Little,Medium,High,High,Little,High,High,High,Medium,Medium,Little,Medium,??????????????????,Low,Jinda
+Female,Industry_ed,High,No,0,Not,High,Not,Not,Not,Little,Not,High,High,High,High,High,Little,Medium,????????,Low,Nikhom
+Female,Agri_tec,High,No,0,High,Medium,Not,Not,Not,High,Not,High,High,High,High,High,High,High,??????????,Low,Jinda
+Female,Engineering,Low,Motorcycle,1,Medium,High,Medium,High,High,Medium,Medium,High,Medium,High,Medium,High,Little,Little,?????,Low,Kekingam
+Female,Agri_tec,Medium,No,1,Medium,High,High,High,High,High,Medium,High,High,High,Medium,High,High,High,?????,Low,Kekingam
+Male,Science,Medium,No,0,Medium,Medium,Not,Not,Medium,High,Not,High,Medium,Medium,Medium,Medium,Not,Little,?????????,Low,Kekingam
+LGBT,Science,Low,No,0,Little,High,Not,High,High,Little,Not,High,High,Medium,Medium,High,Not,Not,?????????????,Low,Jinda
+Female,Food_Ind,Medium,No,2,Medium,Medium,Not,Little,Medium,Medium,Not,High,Little,Medium,High,Medium,Not,Little,A&J Mansion,Low,FBT
+Female,Engineering,Low,No,0,High,Not,Not,Medium,Medium,Not,Not,High,High,Medium,High,Medium,Not,Not,???????????????,Low,Kekingam
+Female,Industry_ed,Low,Motorcycle,0,Little,Medium,Medium,Not,Little,Medium,Not,High,High,High,Little,Medium,Little,Medium,My place 9,Low,Jinda
+Female,Agri_tec,Low,Motorcycle,2,High,Little,High,Not,Not,Medium,High,High,High,Medium,Medium,High,High,Not,?????????,Low,Jinda
+Male,IT,Medium,Bicycle,0,High,Not,Medium,Not,Little,Medium,Not,High,Medium,Medium,Little,Medium,Not,Not,Richmond ,Low,Jinda
+Male,Liberal_art,Low,Motorcycle,0,Little,Medium,High,Little,Medium,Medium,Not,High,High,High,Little,High,Not,Little,Richmond ,Low,Jinda
+Female,Science,Low,No,0,Medium,Medium,Not,Little,High,Medium,Not,Medium,Medium,High,Medium,High,Not,Little,?????????,Low,Jinda
+Female,Engineering,Low,Bicycle,0,High,High,Medium,Little,Medium,High,Medium,High,High,Medium,Medium,High,Little,Medium,Richmond ,Low,Jinda
+Female,Science,Low,No,2,High,Not,High,Little,Medium,High,Little,High,Medium,High,High,Medium,Not,Little,?????,Low,Jinda
+Female,Agri_tec,Low,No,0,Medium,Medium,Medium,Little,Little,Little,Little,High,High,High,High,Medium,Little,Little,??????????,Low,Jinda
+Female,Science,Low,No,0,High,Not,Little,Medium,High,High,Little,High,Medium,Medium,High,High,Not,Little,??????????????????????,Low,Kekingam
+Female,Engineering,Low,No,0,High,Little,Not,Not,Medium,High,Not,High,High,Medium,High,High,Not,Not,JJ apartment,Low,Kekingam
+Male,Nano,Low,No,1,Not,Not,Not,Medium,High,Medium,Little,High,High,High,High,High,Medium,Medium,BBS apartment ,Low,FBT
+Female,Engineering,Low,Motorcycle,0,High,High,High,Little,High,Not,Not,High,High,High,Little,High,Not,Medium,Sabai place ,Low,Nikhom
+Male,IT,Low,Motorcycle,1,Medium,Medium,Little,Little,Little,Little,Little,Medium,Medium,Medium,Little,Little,Little,Little,Sabai place ,Low,Nikhom
+Female,Industry_ed,Low,No,1,Medium,Not,Little,High,Medium,Little,Not,High,High,Medium,High,High,Not,Medium,??????????1,Low,Kekingam
+Female,Liberal_art,Low,No,2,High,Little,Little,Little,Medium,High,Little,High,Medium,High,High,Medium,Not,Little,?????????????????,Low,Jinda
+Male,Science,Medium,No,1,High,Medium,Not,Little,Little,High,Not,High,High,Medium,High,Medium,Not,Not,Sabai place ,Low,Nikhom
+Female,Science,Medium,No,2,Medium,Little,Little,Little,High,Medium,Medium,High,High,Medium,Medium,Medium,Little,Little,???????????,Low,Kekingam
+Female,Engineering,Medium,No,0,Medium,Not,Not,Medium,High,High,Not,High,High,High,High,High,Not,Medium,????????????,Low,Kekingam
+Male,Science,Medium,No,1,Medium,Not,Medium,Little,High,High,Not,High,Medium,Medium,High,High,Not,Not,??????????????,Low,Kekingam
+Female,Science,Medium,No,1,High,Little,Not,Medium,High,Medium,Not,High,High,High,High,High,Not,Not,???????????? ,Low,Jinda
+Female,Science,Medium,No,1,High,Medium,Medium,High,High,Medium,Medium,High,High,High,High,High,Medium,Medium,?????????????????,Low,Jinda
+Female,Science,Medium,No,0,Medium,Medium,Not,Medium,Medium,Medium,Not,High,High,High,High,High,Little,High,Sabai place,Low,Nikhom
+Female,Science,Medium,No,2,High,Medium,Not,Medium,High,Medium,Little,High,Medium,Medium,Medium,Medium,Not,Little,????????????????,Low,Jinda
+Female,Engineering,Medium,Motorcycle,2,High,Medium,Little,Not,Not,Medium,Not,Medium,Medium,Medium,Little,Medium,Not,Not,Garden home,Low,Nikhom
+Female,Engineering,Medium,No,2,High,Medium,Little,Medium,Little,Little,Little,High,Medium,Medium,Little,Little,Little,Little,Sabai place ,Low,Nikhom
+Female,Engineering,Medium,Motorcycle,0,Little,Little,Not,Not,Little,Little,Not,Medium,Medium,Little,Not,Little,Not,Not,Sabai place ,Low,Nikhom
+Female,Science,Medium,No,0,High,High,Medium,High,High,High,Little,High,High,Medium,Medium,High,Little,Medium,Sabai place ,Low,Nikhom
+Female,Agri_tec,Medium,No,0,High,Little,Not,Medium,Medium,Little,Medium,Medium,Little,Little,Little,High,Little,Medium,Sabai place ,Low,RNP
+Male,Science,Medium,Motorcycle,1,High,Medium,Little,Medium,High,Medium,High,Little,High,Medium,Little,Medium,Not,Medium,V Apartment,Low,Nikhom
+Male,Industry_ed,Medium,Car,1,High,Medium,High,Medium,Medium,High,High,High,High,High,Medium,High,Little,High,????????,Low,Nikhom
+Female,Nano,Medium,Motorcycle,1,Medium,High,Little,Medium,High,Medium,Medium,Medium,Medium,High,Medium,Medium,Not,High,??????,Low,Kekingam
+Female,Science,Medium,No,1,Medium,Not,High,High,High,Medium,High,High,High,Medium,Medium,Medium,Not,Little,?????????????????,Low,Jinda
+Male,Engineering,Medium,Motorcycle,1,Medium,Medium,Little,Little,Little,Medium,Little,High,Medium,Medium,Medium,Medium,Little,Little,??????????1,Low,Nikhom
+Female,Food_Ind,High,No,0,High,Medium,Medium,High,High,High,Little,High,Medium,High,High,High,Little,High,????? BBS,Low,Jinda
+Female,Science,High,No,0,High,Not,Not,Little,Medium,Medium,Little,High,Little,Medium,High,Medium,Not,Not,?????????,Low,Kekingam
+Female,Science,High,No,1,High,High,Not,Medium,Not,High,Not,High,High,Medium,Medium,High,Not,Medium,??????????????,Low,Jinda
+LGBT,Engineering,High,Car,0,High,Little,High,Medium,Little,High,Medium,High,Medium,High,Medium,High,Not,Little,V Apartment,Low,Nikhom
+Male,Science,High,No,0,Little,Not,Medium,Not,High,High,Little,High,High,High,High,High,Not,Not,FBT,Low,FBT
+Female,Agri_tec,High,Motorcycle,0,High,Medium,Little,Little,Medium,High,Little,High,High,High,High,High,Little,Little,JJ apartment,Low,Kekingam
+Male,Science,High,No,0,Medium,High,Not,Medium,Medium,High,Little,High,High,High,Little,Medium,Not,Little,V Apartment,Low,Nikhom
+Male,Liberal_art,High,Motorcycle,0,Little,Little,High,High,High,High,Not,High,Medium,Not,Little,High,Not,High,???????????????? 1,Low,RNP
+Male,Nano,Medium,No,0,High,Not,Little,Medium,High,Medium,Not,High,High,High,High,High,Not,High,N&A house,Low,Jinda
+Female,Engineering,Low,No,0,High,Medium,Medium,High,High,High,High,Medium,High,Medium,High,High,Little,Little,?????????????????,Medium,Kekingam
+LGBT,Industry_ed,Medium,No,0,Medium,Not,Not,Not,Medium,Medium,Little,High,High,Medium,Medium,High,Not,Not,???????,Medium,Kekingam
+Male,Engineering,High,Motorcycle,1,Medium,Little,Medium,High,High,High,Little,High,Little,Little,Little,Medium,Not,Not,?????????,Medium,RNP
+LGBT,Science,Very_High,No,1,High,Not,Not,Little,Medium,High,Little,High,High,High,Medium,Medium,Medium,Medium,?????????,Medium,RNP
+Male,Science,Very_High,Bicycle,0,High,Medium,Little,Not,High,High,Not,High,High,Medium,Little,High,Not,Little,??????,Medium,RNP
+Female,Science,Medium,No,0,Medium,Not,Not,Medium,Medium,High,Not,Medium,Medium,Medium,High,Medium,Little,Not,?????????????????,Medium,Kekingam
+Female,Science,Medium,Motorcycle,0,High,Medium,Little,Medium,High,Medium,Not,High,High,High,High,High,Little,Little,???????????,Medium,Kekingam
+Female,Science,Medium,Bicycle,1,High,Medium,Medium,Not,High,Medium,Not,High,Medium,Medium,Medium,Medium,Not,Little,??????? ???????RNP,Medium,RNP
+Male,Engineering,Low,No,0,High,Medium,Little,Medium,Medium,Medium,Medium,High,Medium,Medium,High,High,Little,Little,?????????????-???????,Medium,Kekingam
+Female,Agri_tec,Low,No,0,High,Medium,High,Little,Medium,Medium,High,High,Medium,High,Medium,Medium,High,High,??????????1,Medium,Kekingam
+Female,Industry_ed,Very_High,Motorcycle,1,High,High,High,Medium,Little,Medium,Medium,High,High,High,Little,High,High,High,???????????,Medium,RNP
+Female,IT,Low,No,1,High,High,Medium,Little,High,Medium,Medium,High,High,High,Little,High,Not,Not,A&J Mansion,Medium,RNP
+Female,Engineering,Low,No,0,Little,High,Little,Little,High,High,High,High,High,High,High,High,Little,Medium,A&J Mansion,Medium,RNP
+Female,Nano,Low,No,1,High,Little,Little,Medium,High,High,Little,High,High,High,High,High,Medium,High,??????,Medium,Kekingam
+Female,Science,Low,No,0,Medium,Little,Not,Not,Medium,Medium,Not,High,Medium,Medium,High,High,Not,Not,Enjoy place,Medium,RNP
+Female,Industry_ed,Medium,No,1,High,High,Medium,Little,High,High,Medium,High,High,High,Medium,High,Little,Little,Thr icon place,Medium,RNP
+Male,IT,Medium,Motorcycle,0,Medium,Little,Little,Medium,Medium,Little,Medium,High,High,High,High,High,Not,Medium,U-Place,Medium,RNP
+Female,Architecture,Medium,No,0,High,Medium,Little,Medium,Medium,Medium,Little,High,Medium,High,High,High,Little,High,??????????,Medium,Jinda
+Female,Science,Medium,Motorcycle,0,Medium,High,Medium,Medium,High,Medium,Not,Medium,Medium,High,Little,High,Not,High,????????????????2,Medium,RNP
+Female,Agri_tec,Medium,Motorcycle,1,Little,Little,High,Little,Medium,Medium,Little,High,High,High,Medium,High,Not,Not,U-Place,Medium,RNP
+Male,Science,Medium,No,2,Medium,Not,Not,Not,Medium,Medium,Not,High,High,Medium,Medium,Medium,Not,Not,??????,Medium,Kekingam
+Female,Engineering,Medium,No,0,Medium,Not,Not,Little,High,High,High,High,Medium,Medium,High,Medium,High,Little,A&J Mansion,Medium,RNP
+Female,Engineering,Medium,Motorcycle,0,High,Little,Medium,Little,Medium,High,High,High,High,High,High,High,Not,Medium,A&J Mansion,Medium,RNP
+Male,Science,Medium,Motorcycle,1,High,High,High,Medium,Medium,Not,Not,High,High,High,High,Medium,Not,Not,U-Place,Medium,RNP
+Female,Nano,Medium,No,1,High,Medium,Not,Medium,High,Medium,Medium,High,High,High,High,High,Not,Medium,???????????,Medium,Kekingam
+Female,Industry_ed,Medium,No,0,Medium,Medium,Little,Medium,High,High,Little,High,High,Medium,High,High,Medium,High,??????????????,Medium,Jinda
+Female,IT,Medium,No,1,Medium,Little,Little,Little,Medium,Little,Little,Medium,Medium,High,High,Medium,Not,Not,???????? Kekingam2,Medium,Kekingam
+Female,Industry_ed,Medium,Car,1,High,High,High,Little,High,Little,Little,High,High,High,Medium,High,Little,High,??????????3 ,Medium,Kekingam
+Female,Industry_ed,High,No,2,High,High,Medium,Medium,High,High,Not,High,High,High,High,High,High,High,The living 52,Medium,Jinda
+Female,Science,High,No,2,High,High,Not,Not,Medium,High,Not,High,High,High,High,High,High,High,Enjoy place,Medium,RNP
+Female,Engineering,High,Motorcycle,2,High,High,High,High,High,High,Little,High,High,High,High,High,Medium,High,Papa mama apartment,Medium,RNP
+Female,Businees,High,No,0,High,Not,Not,Medium,Medium,Medium,Little,High,Medium,Medium,High,High,Not,High,????????,Medium,FBT
+Female,Engineering,High,No,1,Medium,Medium,Not,Not,High,High,Little,High,High,Medium,Medium,Medium,Not,Little,????????,Medium,Kekingam
+Male,Agri_tec,High,No,0,High,Medium,High,High,High,High,Not,High,High,Little,High,High,Not,Medium,??????,Medium,FBT
+LGBT,Engineering,Low,Motorcycle,0,Medium,High,Little,Not,Little,High,Little,High,High,High,High,High,High,High,K house,Medium,RNP
+Female,Businees,Medium,No,1,High,High,Medium,Medium,High,Medium,Medium,High,High,High,High,High,Medium,High,K house,Medium,RNP
+Male,Engineering,Very_High,Motorcycle,2,High,Medium,Medium,High,High,High,Little,High,High,High,High,High,High,High,???,Medium,Kekingam
+Female,Science,Low,No,2,Medium,Medium,Medium,Medium,High,High,High,High,High,High,High,High,Medium,Medium,????????????????,Medium,Kekingam
+Female,Engineering,Medium,Motorcycle,1,High,Medium,High,Medium,High,High,Medium,High,High,Medium,Medium,High,Not,High,The P.P.one,Medium,RNP
+Female,Engineering,High,No,0,High,High,Little,Medium,Medium,Medium,Little,Medium,Medium,High,High,High,Little,Little,??????????????,Medium,Kekingam
+Female,Engineering,Low,Motorcycle,2,High,Little,Little,Not,Medium,Not,Little,High,High,High,High,High,High,High,Enjoy place,Medium,RNP
+Male,Engineering,Low,Bicycle,0,High,Medium,High,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,High,Little,Little,Rnp place,Medium,RNP
+Female,Businees,Low,Motorcycle,1,High,Medium,High,Medium,High,Medium,High,High,High,High,Medium,High,Little,High,????????,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Not,Medium,Medium,Medium,High,High,Medium,Medium,Medium,Medium,Medium,????????,Medium,RNP
+Male,Engineering,Medium,Motorcycle,1,Medium,Medium,Little,Little,Little,Little,Little,High,High,High,Medium,Little,Little,Little,Enjoy place,Medium,RNP
+Male,Science,Medium,No,0,High,Little,Little,Medium,High,High,High,High,High,High,High,High,Little,Little,ROOM51,Medium,Jinda
+Female,Engineering,High,Motorcycle,0,High,High,Medium,Not,Little,Little,Little,High,Medium,High,Medium,High,Not,Little,U-Place,Medium,RNP
+LGBT,Science,Medium,No,1,High,Medium,Not,Medium,Medium,Medium,Not,Medium,Medium,High,Medium,High,Not,Little,ROOM52,Medium,Jinda
+Male,Engineering,Low,Motorcycle,2,High,High,High,Little,Medium,Little,Not,High,Little,Medium,Medium,High,Medium,Little,Papa mama apartment,Medium,RNP
+Female,Agri_tec,Low,No,0,Medium,Medium,Not,Medium,Medium,Medium,Little,High,High,High,High,High,Medium,High,?????????????,Medium,Kekingam
+Female,Science,Low,No,0,High,High,Not,Little,Medium,High,Little,High,Medium,Medium,Medium,High,Not,Not,????????????????,Medium,RNP
+Female,Liberal_art,Low,No,1,High,Little,Little,Little,High,Medium,Not,High,Medium,Medium,High,High,Not,Little,??????,Medium,Kekingam
+Female,Liberal_art,Low,Motorcycle,1,High,Medium,High,High,High,Medium,Little,High,High,High,High,High,Medium,Medium,???????,Medium,RNP
+Male,Industry_ed,Medium,Car,1,High,High,High,Little,Little,Little,Little,High,Medium,Medium,Little,Medium,Little,Little,Garden home,Medium,Nikhom
+LGBT,Architecture,Medium,No,0,High,High,Not,Little,High,High,Medium,High,High,Medium,High,High,Not,Medium,Rnp place,Medium,RNP
+Female,Engineering,Medium,Motorcycle,0,High,Little,High,Little,Little,Little,Little,High,High,High,Medium,High,Little,Little,?????????????,Medium,RNP
+Female,Engineering,Medium,Motorcycle,0,High,High,High,Little,Medium,Medium,Little,High,High,High,High,High,Little,Medium,2SON,Medium,RNP
+Female,Engineering,Medium,Car,1,High,High,High,Not,High,High,Medium,Medium,Medium,High,High,High,High,High,Papa mama apartment,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Medium,Medium,High,Medium,High,Medium,High,Medium,High,Medium,High,AJ PARK,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Medium,Medium,High,Medium,High,Medium,High,Medium,High,Medium,High,AJ PARK,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Medium,Medium,High,Medium,High,Medium,High,Medium,High,Medium,High,AJ PARK,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Medium,Medium,High,Medium,High,Medium,High,Medium,High,Medium,High,AJ PARK,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Medium,Medium,High,Medium,High,Medium,High,Medium,High,Medium,High,AJ PARK,Medium,RNP
+Female,Engineering,Medium,No,0,Medium,Medium,Not,Little,Little,Medium,Medium,Medium,Medium,Medium,Medium,High,Not,Little,Garden home,Medium,RNP
+Female,Science,Medium,Motorcycle,2,High,Medium,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,Little,Sabai place ,Medium,Nikhom
+Female,Engineering,Medium,No,0,Medium,Medium,Not,Little,Little,Little,Little,Little,Little,Little,Little,Little,Little,Little,????????,Medium,RNP
+Female,Science,Medium,No,1,High,High,Little,Not,Medium,Little,Little,High,High,Medium,Medium,High,Not,Little,?????,Medium,RNP
+Female,Engineering,Medium,No,1,Medium,Not,Not,Medium,High,High,Little,High,High,Medium,Medium,Medium,Not,Little,????????,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,Medium,Medium,Not,Not,Little,Little,Little,High,Medium,Medium,Medium,Medium,Little,Little,??????,Medium,RNP
+LGBT,Engineering,Medium,Motorcycle,1,High,Little,High,Medium,Medium,High,High,Medium,Medium,High,High,High,Little,High,????? ???????? RNP,Medium,RNP
+Female,Engineering,High,Motorcycle,0,High,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,High,High,Little,Medium,2SON,Medium,RNP
+Female,Engineering,Very_High,Motorcycle,0,High,Little,Medium,Little,Medium,Medium,High,High,High,High,High,Medium,Little,Little,SSY PLACE,Medium,Kekingam
+Female,Science,Medium,No,2,Medium,Medium,Medium,Little,Little,Little,Little,High,High,Medium,Little,Medium,Medium,Medium,SIR LIVING,Medium,Nikhom
+Male,Science,Medium,No,2,High,High,High,High,High,High,High,High,High,High,High,High,Not,Not,????????,Medium,Kekingam
+Female,Agri_tec,Low,Motorcycle,0,Medium,Little,Little,Little,High,High,Medium,High,High,High,High,Medium,Medium,Medium,RNP the waterside,Medium,RNP
+Female,Engineering,Low,No,2,Medium,High,Not,Medium,Medium,High,Medium,High,High,Medium,Medium,High,Medium,Medium,AJ PARK,Medium,Kekingam
+Male,Engineering,Low,Motorcycle,0,Little,Medium,Little,Medium,Little,Medium,Not,Medium,Medium,Medium,Medium,Little,Not,Medium,AJ PARK,Medium,RNP
+Male,IT,Low,Motorcycle,0,High,High,High,Medium,Medium,Medium,Medium,High,High,High,High,High,Not,Not,AJ PARK,Medium,RNP
+Male,Nano,Low,Motorcycle,0,Medium,Medium,High,Medium,High,High,Medium,High,High,High,High,High,Not,Little,Aj park,Medium,RNP
+Female,Engineering,Medium,Motorcycle,0,High,Medium,Medium,Little,Little,Little,Not,Medium,Little,High,Not,Little,Not,Not,A&J Mansion,Medium,RNP
+Female,Science,Medium,No,0,High,High,Little,Medium,High,High,Medium,Medium,High,Medium,Medium,High,Little,Medium,AJ PARK,Medium,RNP
+Female,Engineering,Medium,Motorcycle,2,High,High,Medium,Little,Medium,Medium,Medium,High,High,High,Medium,Medium,Medium,Medium,2SON,Medium,RNP
+Male,Science,Medium,No,0,High,High,Little,Medium,Medium,High,Not,High,High,Little,Medium,High,High,High,AJ PARK,Medium,Kekingam
+Female,Liberal_art,Medium,No,1,High,High,High,Medium,High,High,High,High,High,High,High,High,High,High,AJ PARK,Medium,RNP
+Female,Engineering,High,Motorcycle,0,High,High,Little,Not,Not,Medium,Not,High,Medium,Medium,Little,Little,Little,Little,Pool Villa,Medium,RNP
+Female,Engineering,High,Motorcycle,1,High,Medium,Not,Not,Medium,Medium,Little,High,Medium,High,Medium,Medium,Little,Little,2SON,Medium,RNP
+Female,Engineering,High,No,2,High,High,Little,Not,High,High,Medium,Medium,Medium,Medium,High,High,Little,Little,AJ PARK,Medium,RNP
+Female,Engineering,High,Motorcycle,0,High,High,High,Little,Little,High,Medium,Medium,Little,Medium,High,High,Not,Not,AJ PARK,Medium,RNP
+Female,Science,High,Motorcycle,0,High,Medium,High,Medium,Medium,High,High,High,High,Medium,High,High,Medium,Medium,AJ PARK,Medium,RNP
+Male,Science,High,No,1,High,High,Medium,Medium,High,High,Little,High,High,High,High,High,Little,Medium,AJ PARK,Medium,RNP
+Female,Engineering,High,No,0,High,Medium,Medium,Little,High,Little,Little,Medium,Medium,High,High,High,Not,Little,Pool Villa,Medium,RNP
+Female,Engineering,High,Motorcycle,0,Medium,High,High,Medium,High,High,Medium,Medium,Medium,Medium,High,High,Medium,Medium,AJ PARK,Medium,RNP
+Male,Engineering,High,Motorcycle,0,Medium,Medium,High,Medium,Medium,High,Medium,High,High,Medium,High,High,Medium,Medium,AJ PARK,Medium,RNP
+LGBT,Science,High,Motorcycle,2,High,High,High,Medium,High,High,High,High,High,Medium,High,High,Not,Little,AJ PARK,Medium,RNP
+Male,Engineering,High,Car,2,High,High,High,Not,Medium,Medium,Little,High,Little,Medium,Medium,High,Little,Little,Pool Villa,Medium,RNP
+Female,Engineering,High,No,0,Medium,Not,Not,Not,Little,Medium,Not,High,High,High,Medium,High,Not,Not,?????????,Medium,RNP
+Male,Engineering,Very_High,Car,0,Medium,Little,High,Not,Little,Little,Little,High,High,Medium,High,Medium,Not,Not,Pool Villa,Medium,RNP
+Female,Science,Low,No,2,High,Medium,Not,Little,High,High,Medium,High,High,Medium,High,High,Not,Little,Papa mama apartment,Medium,RNP
+Female,Industry_ed,Low,No,3,High,High,Little,High,High,High,Little,High,High,High,High,High,High,High,??????????????????,Medium,Nikhom
+Female,Industry_ed,Medium,No,2,High,High,Little,Medium,High,Medium,Medium,High,High,High,Medium,High,High,High,The Home,Medium,RNP
+Female,Engineering,Medium,Motorcycle,0,High,High,High,High,High,High,High,High,High,High,High,High,Little,Medium,Rnp place,Medium,RNP
+Male,Engineering,Medium,Car,1,High,High,Medium,Not,Medium,Medium,Medium,High,Little,Medium,Little,Medium,High,Medium,V-Condo,Medium,Nikhom
+Male,Science,Medium,No,1,High,High,Not,Little,Little,Medium,Little,Medium,High,Medium,Medium,High,Not,Little,V-Condo,Medium,Nikhom
+Female,Engineering,High,Car,0,High,High,Medium,Not,Little,Little,Little,High,Medium,Medium,Little,Medium,High,High,Jia-Jia,Medium,RNP
+Female,Engineering,High,Motorcycle,1,Medium,Medium,Medium,Medium,High,Medium,High,High,High,High,High,High,Medium,Medium,The Home,Medium,RNP
+Female,Businees,High,No,0,High,Medium,Little,High,High,High,Little,Medium,High,Medium,Medium,High,Not,Medium,V-Condo,Medium,Nikhom
+Male,Engineering,High,Car,1,High,High,High,Little,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Medium,Jia-Jia,Medium,RNP
+Male,Engineering,High,Car,2,High,High,Medium,Medium,Medium,Medium,Medium,High,Medium,Medium,Medium,Medium,Medium,Medium,V-Condo,Medium,Nikhom
+Male,Engineering,High,Car,1,High,High,Medium,Little,Medium,Medium,Little,High,Medium,High,Medium,High,High,High,V-Condo,Medium,Nikhom
+Male,Engineering,High,Car,1,High,High,Medium,Little,Medium,Medium,Little,High,Medium,High,Medium,High,High,High,V-Condo,Medium,Nikhom
+Male,Engineering,High,Car,1,High,High,Medium,Little,Medium,Medium,Little,High,Medium,High,Medium,High,High,High,V-Condo,Medium,Nikhom
+Male,Engineering,High,Car,1,High,High,Medium,Little,Medium,Medium,Little,High,Medium,High,Medium,High,High,High,V-Condo,Medium,Nikhom
+Female,Engineering,Very_High,Car,0,High,High,High,Not,Medium,Medium,High,Medium,Medium,High,Medium,High,Little,High,V-Condo,Medium,Nikhom
+Female,Agri_tec,Medium,No,2,Medium,Little,Little,Not,Medium,Little,Little,High,Medium,Medium,Little,Medium,Medium,Medium,Jia-Jia,Medium,RNP
+Female,Science,Medium,No,2,Little,High,Not,Medium,High,High,Not,High,Medium,High,Little,High,Not,Not,Jia-Jia,Medium,RNP
+Female,Architecture,High,No,1,High,Little,Little,Little,High,Little,Little,Medium,Medium,High,High,High,Medium,High,Jia-Jia,Medium,RNP
+Female,Engineering,High,Car,0,High,High,High,Not,Medium,Medium,Little,High,Little,High,Medium,Medium,Little,Little,Papa mama apartment,Medium,RNP
+Female,Engineering,Medium,Motorcycle,1,High,High,High,Little,Little,High,Medium,High,High,High,Medium,Medium,Little,Medium,RNP the waterside,High,RNP
+Female,Science,Medium,Motorcycle,2,High,High,Medium,Medium,Medium,Medium,Medium,High,Medium,High,High,High,Medium,Medium,Jia-Jia,High,RNP
+Female,Engineering,Low,Car,1,High,Medium,High,Little,Medium,Little,Little,Medium,Medium,High,High,Medium,Little,Little,????????????????,High,RNP
+Female,Science,Medium,No,3,High,Medium,Not,Medium,High,High,Not,High,High,High,Medium,Medium,Not,Not,?????????????????1,High,RNP
+LGBT,Engineering,High,Motorcycle,3,High,High,Little,Not,Little,High,Little,High,High,High,Medium,High,Not,Little,???????? ,High,RNP
+Female,Liberal_art,High,Motorcycle,3,High,Medium,Medium,Little,Medium,Little,Little,High,Little,Medium,Medium,Little,Little,Little,????????,High,RNP
+Female,Liberal_art,High,Motorcycle,3,High,Medium,Medium,Little,Medium,Little,Little,High,Little,Medium,Medium,Little,Little,Little,????????,High,RNP
+Female,Science,High,Motorcycle,2,High,Medium,Not,Not,Medium,Little,Not,High,Little,Medium,Medium,Little,Not,Not,???????? ,High,RNP
+Female,Engineering,High,Motorcycle,3,High,High,Little,Not,Medium,Medium,High,High,High,High,Medium,High,Not,Little,????????,Very_High,RNP
+Female,Liberal_art,High,Motorcycle,3,Medium,Medium,Medium,Little,Little,Medium,Little,Medium,Little,Medium,Little,Medium,Medium,Medium,????????,Very_High,RNP
